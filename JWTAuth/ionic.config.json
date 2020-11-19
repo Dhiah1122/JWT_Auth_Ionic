@@ -1,0 +1,7 @@
+{
+  "name": "JWTAuth",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
